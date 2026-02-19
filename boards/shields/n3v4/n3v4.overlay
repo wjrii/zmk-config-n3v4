@@ -23,8 +23,8 @@
             , <&pico_header 20 GPIO_ACTIVE_HIGH>
             , <&pico_header 19 GPIO_ACTIVE_HIGH>
             , <&pico_header 18 GPIO_ACTIVE_HIGH>
-            , <&pico_header 17 GPIO_ACTIVE_HIGH>
             , <&pico_header 16 GPIO_ACTIVE_HIGH>
+            , <&pico_header 17 GPIO_ACTIVE_HIGH>
             ;
 
         row-gpios
